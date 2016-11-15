@@ -6,4 +6,4 @@ layout: site
 
 funny funny funny
 
-[Yana heeft een lelijke pagina](ydimova.github.io)
+[Yana heeft een lelijke pagina](https://ydimova.github.io)
