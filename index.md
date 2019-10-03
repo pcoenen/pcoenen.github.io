@@ -8,4 +8,4 @@ layout: site
 
 # Lievelingsdieren van Yana
 
-![Mooie slang](http://static2.hln.be/static/photo/2012/13/10/10/20120505105158/media_xll_4805740.jpg)
+![Mooie slang](https://ichef.bbci.co.uk/news/660/cpsprodpb/1486F/production/_105597048_snakes8.jpg)
